@@ -1,5 +1,4 @@
 Ola mundo
-Incluindo novas alteracoes
 
 Arquivo teste salvo com as novas funcoes 
 do sistema de validacoes 
